@@ -18,13 +18,13 @@ This python script convert a prezi next online presentation to PDF.
 python 2.7 or 3.5
 
 python modules :
-		* pyautogui
-		* PyPDF2
+* pyautogui
+* PyPDF2
 
-you can get this modules by running : pip install pyautogui --user;pip install PyPDF2 --user
+You can get those modules by running in a shell: ``pip install pyautogui --user;pip install PyPDF2 --user``
 
-## Authors
+## Author
 
-* **Jérémie Chauvel**
+**Jérémie Chauvel**
 
 
